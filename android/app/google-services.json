@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "205189698658",
+    "project_id": "pertemuan7jimi",
+    "storage_bucket": "pertemuan7jimi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205189698658:android:6cd72cdd2ebb68a8e62d3b",
+        "android_client_info": {
+          "package_name": "com.jimi_f19.pertemuan7_crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205189698658-okkgck1uv8m0a6g76j9lj5gp8l2of6jh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7foZvpKThh_Nsm9VOBokjf8V7r-h7Qpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205189698658-okkgck1uv8m0a6g76j9lj5gp8l2of6jh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
