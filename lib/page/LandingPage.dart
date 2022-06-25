@@ -63,7 +63,11 @@ class LandingPage extends StatelessWidget {
               width: 150,
               height: 40,
               child: ElevatedButton(
-                onPressed: () => Get.to(HalamanPage()),
+                onPressed: () { Navigator.pushReplacement(context, 
+                  MaterialPageRoute(
+                                builder: (context) => HalamanPage()));
+                                },
+                // => Get.to(HalamanPage()),
                 child: Text(
                   'Mulai',
                   style: TextStyle(
